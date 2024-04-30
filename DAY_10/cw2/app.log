@@ -1,0 +1,21 @@
+2024-04-29 12:48:21 INFO  cw2:41 - open url
+  2024-04-29 12:48:24 WARN  cw2:43 - Wait for 3 sec
+  2024-04-29 12:48:26 INFO  cw2:46 - select Bangalore
+  2024-04-29 12:48:29 WARN  cw2:51 - Wait for 3 sec
+  2024-04-29 12:48:33 INFO  cw2:64 - selected 4 people
+  2024-04-29 12:48:33 INFO  cw2:72 - Selected November
+  2024-04-29 12:48:36 INFO  cw2:82 - Screenshot taken
+  2024-04-29 12:48:36 INFO  cw2:83 - Terminated
+  2024-04-29 12:49:01 INFO  cw2:41 - open url
+  2024-04-29 12:49:04 WARN  cw2:43 - Wait for 3 sec
+  2024-04-29 12:49:06 INFO  cw2:46 - select Bangalore
+  2024-04-29 12:49:09 WARN  cw2:51 - Wait for 3 sec
+  2024-04-29 12:49:47 INFO  cw2:41 - open url
+  2024-04-29 12:49:50 WARN  cw2:43 - Wait for 3 sec
+  2024-04-29 12:49:51 INFO  cw2:46 - select Bangalore
+  2024-04-29 12:49:54 WARN  cw2:51 - Wait for 3 sec
+  2024-04-29 12:49:58 INFO  cw2:64 - selected 4 people
+  2024-04-29 12:49:59 INFO  cw2:72 - Selected November
+  2024-04-29 12:50:02 INFO  cw2:82 - Screenshot taken
+  2024-04-29 12:50:02 INFO  cw2:83 - Terminated
+  
